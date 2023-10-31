@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Hoàng Minh Tâmm
+          Hoàng Minh Tâm
         </p>
         <div>
           <a
@@ -28,14 +28,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
+        <h1>Hoàng Minh Tâm</h1>
       </div>
 
       <div className={styles.grid}>
