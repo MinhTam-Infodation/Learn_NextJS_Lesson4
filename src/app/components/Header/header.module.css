@@ -1,0 +1,19 @@
+.container {
+
+}
+
+.d__flex {
+    display: flex;
+}
+
+.justify__between {
+    justify-content: space-between;
+}
+
+.w__100 {
+    width: 100%;
+}
+
+.align__center {
+    align-items: center;
+}
